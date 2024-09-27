@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Uptime-status',
+  SiteName: 'Website-status',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -22,15 +22,15 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://uptime.001315.xyz/'
+      url: 'https://psxjoy.com/'
     },    
     {
       text: 'GitHub',
-      url: 'https://github.com/shaoyouvip/uptime/'
+      url: 'https://github.com/psxjoy/'
     },
     {
       text: '博客',
-      url: 'https://blog.001315.xyz/'
+      url: 'https://psxjoy.com/'
     },
   ],
 };
